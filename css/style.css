@@ -1,0 +1,14 @@
+body {
+    font-family: 'space-mono';
+    text-align: center;
+    background: linear-gradient(to right, rgb(37, 5, 143),rgb(142, 179, 238));
+}
+
+p{
+    font-size: large;
+}
+
+
+.myCanvas {
+    background-color: white;
+}
